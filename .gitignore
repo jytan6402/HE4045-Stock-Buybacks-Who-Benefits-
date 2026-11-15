@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+
+# Only push these files
+!.gitignore
+!README.md
+!requirements.txt
+!HE4045_Group 10_Final Project.pdf
+!HE4045_Group10_Buybacks_Returns_Only.ipynb
+!HE4045_Group+10_Mid-Semester+Project+Proposal+.pdf

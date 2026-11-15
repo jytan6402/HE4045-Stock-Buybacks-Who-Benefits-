@@ -1,0 +1,12 @@
+# Python 3.13
+pandas>=2.2
+numpy>=2.1
+matplotlib>=3.10
+statsmodels>=0.15
+linearmodels==7.1   # 7.0 changes a few Figure 10 p-values in the 3rd decimal
+pyarrow>=21
+jupyter
+
+# Only needed to download the data from WRDS (Section 1 of the notebook)
+wrds
+python-dotenv
